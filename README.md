@@ -29,3 +29,7 @@ This project demonstrates the creation of an employee churn prediction pipeline 
 ## Learn More
 
 This project is fully documented in a [Medium article series](https://medium.com/@jushijun/building-an-employee-churn-prediction-pipeline-with-bigquery-pycaret-and-looker-studio-018906cda2ee).
+
+## References
+
+- YouTube @absentdata https://www.youtube.com/watch?v=jkNc8GYx3Kw&t=471s&ab_channel=AbsentData
